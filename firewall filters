@@ -1,0 +1,5 @@
+##How Firewall Filters Traffic
+A firewall filters traffic based on predefined rules, controlling inbound and outbound network traffic. 
+It can block or allow traffic based on parameters like port number, protocol (TCP/UDP), source/destination IP, etc. 
+This helps protect the system from unauthorized access and malicious traffic.
+
